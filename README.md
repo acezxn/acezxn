@@ -12,7 +12,7 @@ Programmers are lazy. I used most of the time thinking of project ideas. Instead
 
 ## More info
 
-```
+```cpp
 while (alive) 
 {
   while (at_school) 
