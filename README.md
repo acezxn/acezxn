@@ -2,6 +2,9 @@
 
 I am a teenage developer who like to make interesting projects. I like to automate processes with scripts, solve real life problems, learn ethical hacking, and make educational-purpose hacking tools. Most of the projects are inspired by real life problems and cybersecurity.
 
+[TryHackMe](https://tryhackme.com/p/acezxn)
+[HackTheBox](https://app.hackthebox.com/users/265097)
+
 ### Interests
 
 - Ethical hacking
