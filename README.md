@@ -19,6 +19,6 @@ I also practice my knowledge on these platforms:
 
 [How I passed the CEH exam in a week?](https://gist.github.com/acezxn/e3da9fba0aaeeaa7723942399ad1be66)
 
-<script src="https://gist.github.com/acezxn/dc3e5def23e11a7c0a2d111164c49a42.js"></script>
+[My life](https://gist.github.com/acezxn/dc3e5def23e11a7c0a2d111164c49a42)
 
 
