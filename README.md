@@ -19,40 +19,6 @@ I also practice my knowledge on these platforms:
 
 [How I passed the CEH exam in a week?](https://gist.github.com/acezxn/e3da9fba0aaeeaa7723942399ad1be66)
 
-My life:
-```cpp
-while (alive) 
-{
-  while (at_school) 
-  {
-    if (in_class) 
-    {
-      study();
-    }
-    else if (in_breaktime)
-    {
-      recess();
-      if (having_ideas) 
-      {
-        work_on_projects();
-      }
-      else 
-      {
-        hacking(); // tryhackme or hackthebox, or making hacking tools
-      }
-    }
-  }
-
-  while (at_home)
-  {
-    recess();
-    do_homework();
-    thinking_of_ideas();
-    hacking(); // tryhackme or hackthebox, or making hacking tools
-    work_on_projects();
-  }
-}
-  
-```
+<script src="https://gist.github.com/acezxn/dc3e5def23e11a7c0a2d111164c49a42.js"></script>
 
 
