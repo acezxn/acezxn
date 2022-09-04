@@ -14,7 +14,7 @@ I also practice my knowledge on these platforms:
 - Algorithms
 - Optimization
 
-[![acezxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=acezxn&show_icons=true&theme=merko)](https://github.com/acezxn/github-readme-stats)
+[![acezxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=acezxn&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/acezxn/github-readme-stats)
 
 ## More info
 
