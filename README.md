@@ -14,6 +14,8 @@ I also practice my knowledge on these platforms:
 - Algorithms
 - Optimization
 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/acezxn.png" alt="TryHackMe">
+ 
 ![acezxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=acezxn&show_icons=true&theme=merko&include_all_commits=true)
 
 ## More info
