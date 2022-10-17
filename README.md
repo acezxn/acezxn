@@ -15,6 +15,7 @@ I also practice my knowledge on these platforms:
 - Optimization
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/acezxn.png" alt="TryHackMe">
+ <img src="https://www.hackthebox.com/badge/image/265097" alt="Hackthebox">
  
 ![acezxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=acezxn&show_icons=true&theme=merko&include_all_commits=true)
 
