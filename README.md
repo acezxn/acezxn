@@ -5,6 +5,7 @@ I am a teenage developer who like to make interesting projects. I like to automa
 I also practice my knowledge on these platforms:
 - [TryHackMe](https://tryhackme.com/p/acezxn)
 - [HackTheBox](https://app.hackthebox.com/users/265097)
+- [PicoCTF](https://play.picoctf.org/users/acezxn)
 - [CodeWars](https://www.codewars.com/users/Daniel_Lee)
 
 
