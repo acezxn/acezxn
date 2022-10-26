@@ -9,7 +9,7 @@ I also practice my knowledge on these platforms:
 - [CodeWars](https://www.codewars.com/users/Daniel_Lee)
 
 
- <img src="https://user-images.githubusercontent.com/14313049/197981134-63a0ea7b-84d7-4be4-8820-9f69829346f2.png" width=100px>
+ <img src="https://user-images.githubusercontent.com/14313049/197981134-63a0ea7b-84d7-4be4-8820-9f69829346f2.png" width=200px>
  <img src="https://tryhackme-badges.s3.amazonaws.com/acezxn.png" alt="TryHackMe">
  <img src="https://www.hackthebox.com/badge/image/265097" alt="Hackthebox">
 
