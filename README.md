@@ -10,7 +10,7 @@ I also practice my knowledge on these platforms:
 
 
  <img src="https://user-images.githubusercontent.com/14313049/197981134-63a0ea7b-84d7-4be4-8820-9f69829346f2.png" align="left" width=165px>
- <img src="https://tryhackme-badges.s3.amazonaws.com/acezxn.png" align="center" width=300px alt="TryHackMe">
+ <img src="https://user-images.githubusercontent.com/14313049/214035374-9d3a6b1b-84af-4a5f-8a74-a8280065a731.png" align="center" width=300px alt="TryHackMe">
  <img src="https://www.hackthebox.com/badge/image/265097" align="center" width=300px alt="Hackthebox">
 
 <br/>
