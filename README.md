@@ -15,7 +15,6 @@
 ![Profile View](https://komarev.com/ghpvc/?username=acezxn)
 
 ## More info
-
-[How I passed the CEH exam in a week?](https://gist.github.com/acezxn/e3da9fba0aaeeaa7723942399ad1be66)
+Learn more about me with my [personal website](https://acezxn.me/)
 
 
