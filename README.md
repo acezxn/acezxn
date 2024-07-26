@@ -3,7 +3,7 @@
 - Currently majoring CS in Purdue University
 - Participating in the B01lers Capture The Flag team
 - Working as an algorithm team member in the Purdue Robomaster Club
-- Certified as a CEH in July 2022
+- Got certified in cybersecurity (CC) in July 2024 as well as certified as a CEH in July 2022
 - Enjoying ethical hacking, playing CTFs, and coding fun projects
  
 ### Languages
