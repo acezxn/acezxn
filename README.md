@@ -7,6 +7,8 @@
 - Enjoying ethical hacking, playing CTFs, and coding fun projects
 
 [Tryhackme](https://tryhackme.com/p/acezxn)
+
+[GitLab](https://gitlab.com/acezxn)
  
 ### Languages
 [![My Languages](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,bash)](https://skillicons.dev)
