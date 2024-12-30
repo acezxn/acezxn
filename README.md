@@ -4,7 +4,7 @@
 - Working as an algorithm lead in the Purdue Robomaster Club
 - Participating in the B01lers Capture The Flag team
 - Got Certified in BTL1, CC, and CEH
-- Enjoying red/blue teaming, and programming
+- Enjoying red/blue teaming and programming
 
 [Tryhackme](https://tryhackme.com/p/acezxn)
 
