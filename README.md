@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- Currently majoring CS in Purdue University
+- Currently majoring CS in Purdue University, double tracking SWE and Security
 - Working as an algorithm lead in the Purdue Robomaster Club
-- Participating in the B01lers Capture The Flag team
+- Exploring in multiple security club in Purdue
 - Got Certified in BTL1, CC, and CEH
 - Enjoying red/blue teaming and programming
 
