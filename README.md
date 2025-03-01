@@ -21,4 +21,7 @@
 ## More info
 Learn more about me with my [personal website](https://acezxn.me/)
 
+If you are a Purdue student and hate reading lengthy syllabi, try [BoilerSyllabi](https://syllabus.acezxn.me/)
+
+
 
