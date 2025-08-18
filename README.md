@@ -9,7 +9,7 @@
 [Tryhackme](https://tryhackme.com/p/acezxn)
  
 ### Languages
-[![My Languages](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,bash)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,bash)](https://skillicons.dev)
 
 ### Technologies
 [![My Technologies](https://skillicons.dev/icons?i=ros,react,electron,nodejs,django,pytorch,firebase,postgresql,git,docker)](https://skillicons.dev)
