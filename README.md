@@ -4,7 +4,7 @@
 - Got several [security certifications](https://www.credly.com/users/cheng-en-lee.5db3985c)
 - Working as an algorithm lead in the Purdue Robomaster Club
 - Enjoying programming and security stuff
-- 2025 research intern at [Academia Sinica](https://www.sinica.edu.tw/)
+- 2025 AI research intern at [Academia Sinica](https://www.sinica.edu.tw/), focused on researching adversarial example generation strategies against neural-network based host intrusion detection systems (HIDS).
 
 [Tryhackme](https://tryhackme.com/p/acezxn)
  
