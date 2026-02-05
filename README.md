@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-- Currently majoring CS in Purdue University, double tracking SWE and Security
+- Currently majoring CS in Purdue University, triple tracking in SWE, System, and Security
 - Got several [security certifications](https://www.credly.com/users/cheng-en-lee.5db3985c)
-- Working as an algorithm lead in the Purdue Robomaster Club
-- Enjoying programming and security stuff
-- 2025 AI research intern at [Academia Sinica](https://www.sinica.edu.tw/), focused on researching adversarial example generation strategies against neural-network based host intrusion detection systems (HIDS).
-
-[Tryhackme](https://tryhackme.com/p/acezxn)
+- Working as an algorithm specialist in the Purdue Robomaster Club
+- Interested in AI Security (both AI for security or security for AI) and SWE
+- 2025 research intern at [Academia Sinica](https://www.sinica.edu.tw/), focused on researching evasion strategies against neural-network based host intrusion detection systems (HIDS).
  
 ### Languages
 [![My Languages](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,bash)](https://skillicons.dev)
