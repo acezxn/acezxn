@@ -3,7 +3,7 @@
 - Currently majoring CS in Purdue University, triple tracking in SWE, System, and Security
 - Got several [security certifications](https://www.credly.com/users/cheng-en-lee.5db3985c)
 - Working as an algorithm specialist in the Purdue Robomaster Club
-- Interested in AI Security (both AI for security or security for AI) and SWE
+- Interested in AI security, AI applications in security, and SWE
 - 2025 research intern at [Academia Sinica](https://www.sinica.edu.tw/), focused on researching evasion strategies against neural-network based host intrusion detection systems (HIDS).
  
 ### Languages
